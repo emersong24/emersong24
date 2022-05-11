@@ -1,5 +1,5 @@
 
-h1 align="center">Soy Emerson Valenzuela</h1>
+<h1 align="center">Soy Emerson Valenzuela</h1>
 <h3 align="center">Full-Stack Trainee con conocimientos en Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emersong24&label=Profile%20views&color=0e75b6&style=flat" alt="emersong24" /> </p>
@@ -20,4 +20,4 @@ h1 align="center">Soy Emerson Valenzuela</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emersong24&show_icons=true&locale=en&layout=compact" alt="emersong24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emersong24&show_icons=true&locale=en" alt="emersong24" /></p>
+
